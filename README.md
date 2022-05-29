@@ -1,6 +1,7 @@
-# PHP-Portscanner
-Portscanner feito em php
+<h3>Portscanner made in PHP</h3>
 
-$ php portscanner.php
+<code> php portscanner.php </code>
 
-voce pode alterar as portas no codigo...
+<font face="fantasy" size="5">
+you can change the ports in the code..
+</font>
