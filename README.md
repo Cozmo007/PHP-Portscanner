@@ -2,6 +2,6 @@
 
 <code> php portscanner.php </code>
 
-<font face="fantasy" size="5">
-you can change the ports in the code..
-</font>
+
+<strong>You can change the ports in the code..</strong>
+
